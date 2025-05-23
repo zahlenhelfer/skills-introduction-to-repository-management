@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @zahlenhelfer
+/src/backend/database.py      @zahlenhelfer
+/src/backend/routers/auth.py  @zahlenhelfer
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @zahlenhelfer
